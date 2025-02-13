@@ -7,7 +7,7 @@ export default defineConfig({
   
   // go to 'vite.config.js'
   // do   plugins: [react()],
-  // base:/"Rahul0552.git.io/ToDo-APP"/, NO
+  // base:/"Rahul0552.git.io/increment-count-task"/, NO
 
-  base:"/Rahul0552.github.io/React-ToDo-App"
+  base:"/Rahul0552.github.io/increment-count-task"
 })
